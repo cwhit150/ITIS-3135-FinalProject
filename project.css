@@ -25,6 +25,12 @@ main {
     margin: auto;
 }
 
+/***************************************************************************************
+*    Title: Top Navigation Bar
+*    Author: W3Schools
+*    Availability: https://www.w3schools.com/howto/howto_js_topnav.asp
+*
+***************************************************************************************/
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
@@ -75,6 +81,12 @@ footer {
     color: #f2f2f2;
 }
 
+/***************************************************************************************
+*    Title: modal login button
+*    Author: W3Schools
+*    Availability: https://www.w3schools.com/howto/howto_css_login_form.asp
+*
+***************************************************************************************/
 /* Bordered form */
 form {
   border: 3px solid #f1f1f1;
